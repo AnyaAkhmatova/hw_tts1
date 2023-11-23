@@ -1,0 +1,10 @@
+{
+    "inference": {
+        "input_filename": "./inference/inference.txt",
+        "output_dir": "./inference/results",
+        "duration_part": [0.8, 1.0, 1.2],
+        "pitch_part": [0.8, 1.0, 1.2],
+        "energy_part": [0.8, 1.0, 1.2],
+        "wandb_logging": true
+    }
+}

@@ -1,0 +1,17 @@
+torch
+torchvision
+torchaudio
+numpy
+matplotlib
+pandas
+tqdm
+gdown
+wandb
+pillow
+pyworld
+scikit-learn
+
+librosa==0.8.0
+soundfile
+unidecode
+inflect
